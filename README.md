@@ -6,16 +6,6 @@ AnGe-ClashBoard 是一个基于 `Vue 3 + TypeScript + Vite` 的 Clash 面板，�
 
 当前版本为 `1.85`，基于开源 [zashboard](https://github.com/Zephyruso/zashboard) 二次开发。
 
-## 教学视频
-
-- [YouTube 教学视频](https://youtu.be/J5mdEJQHlG8)
-
-## 相关链接
-
-- [安格超市（代理、VPN、VPS、住宅IP、GPT/流媒体账号）](https://blog.angeworld.cc/market)
-- [安格视界官方TG群2](https://t.me/angeworld2024_2)
-- **芝麻开门**: [按需付费 AI 接口，官方 1/10 价格](https://ai.opendoor.sbs)
-- **超级门户**: [订阅付费 AI 接口，量大管饱的订阅制](https://ai.superdoor.top)
 
 ## 项目特点
 
